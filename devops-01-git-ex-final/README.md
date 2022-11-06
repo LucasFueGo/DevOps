@@ -43,4 +43,4 @@ yarn start
 Contributors names and contact info
 
 - Dls
-- Lucas Fuentes Gonzalez
+- LFG
